@@ -1,4 +1,4 @@
-# MyPortfolio
+# MyPortfolio - to be formatted
 A portfolio to both track my learning at as part of the May 2020 cohort at Makers Academy and hopefully show how far I've come and what I can do!
 
 I've learned early on to set daily and weekly goals, to work out how I can achieve them and then show evidence of my accomplishments and what I've learnt. Click through to any of the week.md links for examples.
