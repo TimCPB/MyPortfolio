@@ -6,9 +6,9 @@ I've learned early on to set daily and weekly goals, to work out how I can achie
 My Goals
 1. I can make anything
 
-I can TDD anything
-I can program fluently
-I can debug anything
+  I can TDD anything
+  I can program fluently
+  I can debug anything
 I can model anything
 I can refactor anything
 I have a methodical approach to solving problems
